@@ -14,6 +14,15 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
+## Collaborator
+
+* [Github](https://github.com/Zartender)
+
+## Screenshots of APP
+
+* ![Screenshot](budgetpng1.png)
+* ![Screenshot](budgetpng2.png)
+
 ## User Story
 AS AN avid traveller
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
