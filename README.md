@@ -14,16 +14,20 @@ When brought back online:
 
   * Offline entries should be added to tracker.
 
-## Collaborator
+## Contributor
 
 * [Github](https://github.com/Zartender)
 
 ## Technical Failure / Troubleshoot
 
-* ![Failur](public/images/Cluster.png)
+* ![Failure](public/images/Cluster.png)
 
 * Mongodb no longer offers free databases after the first cluster deployment. !!!!
     * Therefore, I do not have a deployed database linked via mongodb.
+
+## Operating via Local Host
+
+* [MyYouTube](https://youtu.be/IKXWjrDWmRI)
 
 ## Deployed, and not connected
 
