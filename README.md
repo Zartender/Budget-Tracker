@@ -18,10 +18,24 @@ When brought back online:
 
 * [Github](https://github.com/Zartender)
 
+## Technical Failure / Troubleshoot
+
+* ![Failur](public/images/Cluster.png)
+
+* Mongodb no longer offers free databases after the first cluster deployment. !!!!
+    * Therefore, I do not have a deployed database linked via mongodb.
+
+## Deployed, and not connected
+
+* [Deployed Heroku] (https://serene-eyrie-49044.herokuapp.com/)
+
+  * ' Lieu of new MongoDB terms.
+  * And my misunderstanbding of the MongoDB relations between a 'cluster' and a database, I am not capable of deplying another database via mongoDB at this time. 
+
 ## Screenshots of APP
 
-* ![Screenshot](budgetpng1.png)
-* ![Screenshot](budgetpng2.png)
+* ![Screenshot](public/images/budgetpng1.png)
+* ![Screenshot](public/images/budgetpng2.png)
 
 ## User Story
 AS AN avid traveller
